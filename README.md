@@ -14,7 +14,7 @@ This project implements [HIPML language spec](https://github.com/vitrayatech/hip
 
 Once you run this project API Server will be available at http://localhost:3000 .There are two endpoints which are available on this project.
 
-#### 1.Get Keywords API 
+#### 1. Get Keywords API 
 This API will listdown the list of variables which is required for the provided PML file. We'll use this variable list to provide data in the next API.
 
 Endpoint - /pml/{pml_unique_id}/variables
